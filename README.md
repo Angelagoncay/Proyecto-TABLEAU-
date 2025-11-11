@@ -1,6 +1,6 @@
 # PROYECTO TABLEAU – GRUPO 3 — Jurassic Park: Personajes, Dinosaurios y Recaudación a lo largo de la saga
 
-**GRUPO** **Ángela Goncay, María Nicolás y Siuzanna Danielian**
+**GRUPO** **Siuzanna Danielian, María Nicolás y Ángela GonCay**
 
 # Descripción del proyecto
 Análisis de datos desarrollado en Tableau que explora la evolución de la Recaudación, Personajes y Dinosaurios a lo largo de la saga Jurassic Park y Jurassic World. 
